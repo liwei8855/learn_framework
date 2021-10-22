@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'test' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for test
+pod 'PromiseKit',                   '1.7.7'
+pod 'RestKit',                      '0.27.3'
+#pod 'Masonry'
+pod 'SDWebImage', '~> 5.0'
+pod 'KVOController'
+pod 'ReactiveCocoa', '~> 2.5'
+end

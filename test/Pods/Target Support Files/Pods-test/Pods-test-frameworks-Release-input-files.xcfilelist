@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-test/Pods-test-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ISO8601DateFormatterValueTransformer/ISO8601DateFormatterValueTransformer.framework
+${BUILT_PRODUCTS_DIR}/KVOController/KVOController.framework
+${BUILT_PRODUCTS_DIR}/OMGHTTPURLRQ/OMGHTTPURLRQ.framework
+${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework
+${BUILT_PRODUCTS_DIR}/RKValueTransformers/RKValueTransformers.framework
+${BUILT_PRODUCTS_DIR}/ReactiveCocoa/ReactiveCocoa.framework
+${BUILT_PRODUCTS_DIR}/RestKit/RestKit.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SOCKit/SOCKit.framework
+${BUILT_PRODUCTS_DIR}/TransitionKit/TransitionKit.framework

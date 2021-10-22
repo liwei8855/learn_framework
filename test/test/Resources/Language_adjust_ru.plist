@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>You will see more news from this source in the “Following” and “For You” feeds</key>
+	<string>Вы будете видеть больше статей от этого источника в каналах &quot;Подписки&quot; и &quot;Для вас&quot;</string>
+	<key>Push notifications</key>
+	<string>Push-уведомления</string>
+	<key>Will show more [name] news for you</key>
+	<string>Покажет больше новостей из города [name]</string>
+	<key>new videos</key>
+	<string>новых видео</string>
+	<key>new articles</key>
+	<string>новых статей</string>
+	<key>Users you&apos;re following</key>
+	<string>Подписки на пользователей</string>
+	<key>Filter</key>
+	<string>Фильтр</string>
+	<key>Notifications</key>
+	<string>Уведомления</string>
+	<key>Connection failed please try again</key>
+	<string>Сбой соединения, попробуйте еще раз</string>
+	<key>Customize Notification Frequency</key>
+	<string>Настроить часатоту уведомлений</string>
+	<key>Don&apos;t miss out on breaking news, local news, and important information.</key>
+	<string>Не пропусти срочные новости, местные события и важную информацию</string>
+	<key>Next  →</key>
+	<string>Дальше →</string>
+	<key>Not now</key>
+	<string>Не сейчас</string>
+	<key>{x} more notifications</key>
+	<string>Еще {x} уведомлений</string>
+	<key>Don&apos;t know how to turn it on?</key>
+	<string>Как это включить?</string>
+	<key>Please let us know your city to get better local services</key>
+	<string>Пожалуйста, укажите город, чтобы получать более локализованный сервис</string>
+	<key>Allow location access</key>
+	<string>Разрешить определение местоположения</string>
+	<key>Select Your City</key>
+	<string>Выбрать город</string>
+	<key>By continuing, you agree with our Terms and Conditions</key>
+	<string>Продолжая, вы соглашаетесь с нашими Условиями использования</string>
+	<key>More ❯</key>
+	<string>Больше ❯</string>
+	<key>To use Opera News,turn on mobile data or connect to Wi-Fi.</key>
+	<string>Для использования Opera News включите мобильную передачу данных или подключитесь к сети Wi-Fi</string>
+	<key>Turn ”Allow Notifications” on</key>
+	<string>Включите &quot;Разрешить уведомления&quot;</string>
+	<key>Tap”Notifications”</key>
+	<string>Нажмите &quot;Уведомления&quot;</string>
+	<key>Turn on notification so you will never miss important stories around you</key>
+	<string>Включите уведомления и вы не пропустите ни одной важной истории</string>
+	<key>Customize your push notification preferences</key>
+	<string>Настроить push-уведомления</string>
+	<key>Allow Notifications</key>
+	<string>Разрешить уведомления</string>
+	<key>Go</key>
+	<string>Поехали!</string>
+	<key>Get local alerts,news,and more for</key>
+	<string>Получайте местные оповещения, новости и не только для города</string>
+	<key>Get notified when  {CBS New York} updates</key>
+	<string>Получать уведомления о новых публикациях {CBS New York}</string>
+	<key>BEGIN</key>
+	<string>Начать</string>
+	<key>Auto Dark Mode</key>
+	<string>Авто темная тема</string>
+	<key>Web Font Size</key>
+	<string>Размер шрифта</string>
+	<key>Preview</key>
+	<string>Предварительный просмотр</string>
+	<key>Drag the slider to adjust the web font size</key>
+	<string>Перемещайте слайдер, чтобы настроить размер шрифта</string>
+	<key>Do you want to clear the cache?</key>
+	<string>Хотите очистить кэш?</string>
+	<key>SORT COMMENTS BY</key>
+	<string>Сортировать комментарии по</string>
+	<key>Most Voted Comments</key>
+	<string>Самые популярные комментарии</string>
+	<key>Likes</key>
+	<string>Лайки</string>
+	<key>Activities</key>
+	<string>Действия</string>
+	<key>Replies</key>
+	<string>Ответы</string>
+	<key>h</key>
+	<string>ч</string>
+	<key>d</key>
+	<string>д</string>
+	<key>m</key>
+	<string>мин</string>
+	<key>Лицензионное соглашение с конечным пользователем</key>
+	<string>Лицензионное соглашение</string>
+	<key>Автоматически</key>
+	<string>Авто</string>
+	<key>Obsolete content</key>
+	<string>Устаревший контент</string>
+	<key>Sexual content</key>
+	<string>Слишком откровенный контент</string>
+	<key>Violent,threatening content</key>
+	<string>Жестокость, сцены насилия</string>
+	<key>Misleading content</key>
+	<string>Введение в заблуждение</string>
+	<key>Ad or spam</key>
+	<string>Реклама или спам</string>
+	<key>Clickbait</key>
+	<string>Кликбейт</string>
+	<key>Media won&apos;t load</key>
+	<string>Проблемы с загрузкой</string>
+	<key>SUBMIT</key>
+	<string>Отправить</string>
+	<key>No more news</key>
+	<string>Больше нет новостей</string>
+	<key>More History</key>
+	<string>Больше историй</string>
+	<key>Default Location</key>
+	<string>Основной город</string>
+	<key>Add Location</key>
+	<string>Добавить город</string>
+	<key>Set as default city</key>
+	<string>Выбрать как основной город</string>
+	<key>&quot;Local&quot; channel will show more news from this city.</key>
+	<string>Канал &quot;Мой город&quot; покажет больше местных новостей</string>
+	<key>&quot;For you&quot; channel will show more news from this city.</key>
+	<string>&quot;Для вас&quot; будет показывать больше новостей из этого города</string>
+	<key>Click &quot;Allow&quot;</key>
+	<string>Нажмите &quot;Разрешить&quot;</string>
+	<key>Allow</key>
+	<string>Разрешить</string>
+	<key>Show less about：</key>
+	<string>Показывать меньше такого：</string>
+	<key>Block Source：</key>
+	<string>Заблокировать источник：</string>
+	<key>When “Auto dark mode” is on, We will adjust your appearance based on your device’s system settings</key>
+	<string>Когда &quot;Авто темная тема&quot; включена, мы отрегулируем отображение на основе системных настроек вашего устройства</string>
+	<key>When “Auto dark mode” is off, We won’t adjust your appearance no matter what your device’s settings is</key>
+	<string>Когда &quot;Авто темная тема&quot; отключена, мы не будем регулировать отображение, какими бы ни были настройки вашего устройства</string>
+	<key>Got it</key>
+	<string>Понятно</string>
+	<key>[News Time] minute ago</key>
+	<string>[News Time] минута назад</string>
+	<key>[News Time] minutes ago</key>
+	<string>[News Time] мин назад</string>
+	<key>[News Time] hour ago</key>
+	<string>[News Time] час назад</string>
+	<key>[News Time] hours ago</key>
+	<string>[News Time] ч назад</string>
+	<key>[News Time] day ago</key>
+	<string>[News Time] день назад</string>
+	<key>[News Time] days ago</key>
+	<string>[News Time] дн назад</string>
+	<key>[News Time] week ago</key>
+	<string>[News Time] неделя</string>
+	<key>[News Time] weeks ago</key>
+	<string>[News Time] нед назад</string>
+	<key>[News Time] month ago</key>
+	<string>[News Time] месяц назад</string>
+	<key>[News Time] months ago</key>
+	<string>[News Time] мес назад</string>
+</dict>
+</plist>

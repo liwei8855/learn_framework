@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>You will see more news from this source in the “Following” and “For You” feeds</key>
+	<string>Vous verrez plus d&apos;infos issues de cette source dans &quot;A suivre&quot; et &quot;Pour vous&quot;</string>
+	<key>Will show more [name] news for you</key>
+	<string>Affichage de plus d&apos;infos de [name] pour vous</string>
+	<key>Filter</key>
+	<string>Filtre</string>
+	<key>new videos</key>
+	<string>nouvelles vidéos</string>
+	<key>new articles</key>
+	<string>nouveaux articles</string>
+	<key>Actualiser</key>
+	<string>Rafraîchir</string>
+	<key>Users you&apos;re following</key>
+	<string>Utilisateurs suivis</string>
+	<key>Retry</key>
+	<string>Réessayer</string>
+	<key>Connection failed please try again</key>
+	<string>Problème de connexion. Veuillez réessayer</string>
+	<key>Turn on notification so you will never miss important stories around you</key>
+	<string>Activer les notifications pour ne rien rater de l&apos;actu près de chez vous</string>
+	<key>Turn ”Allow Notifications” on</key>
+	<string>Autoriser les notifications</string>
+	<key>Tap”Notifications”</key>
+	<string>Cliquez &quot;Notifications&quot;</string>
+	<key>Following topics</key>
+	<string>Sujets suivis</string>
+	<key>Following media</key>
+	<string>Médias suivis </string>
+	<key>AI Robet will recommend content base on following items</key>
+	<string>Recommandations basées sur vos préférences</string>
+	<key>Graphique d&apos;intérêts</key>
+	<string>Suggestions personnalisées</string>
+	<key>A la une</key>
+	<string>À la une</string>
+	<key>Customize your push notification preferences</key>
+	<string>Personnaliser vos préférences de notifications push</string>
+	<key>Go</key>
+	<string>Aller</string>
+	<key>Stop seeing articles from this topic in my “For you” tab</key>
+	<string>Masquer les articles sur ce sujet dans la rubrique « Pour vous »</string>
+	<key>We will recommend more interests to you based on your follows.</key>
+	<string>Nous vous recommanderons davantage de sujets en fonction de ce que vous suivez.</string>
+	<key>Follow interests from the Editors&apos; Picks</key>
+	<string>Suivez les intérêts choisis par nos éditeurs. </string>
+	<key>Suggested interests</key>
+	<string>Sujets suggérés</string>
+	<key>[number]s remaining</key>
+	<string>[number] secondes restantes</string>
+	<key>Downloading [name] Category</key>
+	<string>Téléchargement d&apos;articles de la rubrique &quot;[name]&quot;</string>
+	<key>Mon favori</key>
+	<string>Mes favoris</string>
+	<key>Personnaliser mon feed.</key>
+	<string>Personnaliser mon flux</string>
+	<key>Conditions d&apos;utilistaion</key>
+	<string>Conditions d&apos;utilisation</string>
+	<key>SUBMIT</key>
+	<string>Soumettre</string>
+	<key>Media won&apos;t load</key>
+	<string>Le média ne se charge pas</string>
+	<key>Clickbait</key>
+	<string>Contenu clickbait</string>
+	<key>Ad or spam</key>
+	<string>Pub ou spam</string>
+	<key>Misleading content</key>
+	<string>Contenu trompeur</string>
+	<key>Violent,threatening content</key>
+	<string>Contenu violent, angoissant</string>
+	<key>Sexual content</key>
+	<string>Contenu sexuel</string>
+	<key>Obsolete content</key>
+	<string>Contenu dépassé</string>
+	<key>A propos</key>
+	<string>À propos</string>
+	<key>No more news</key>
+	<string>Fin des actualités </string>
+	<key>Always show news images on all networks</key>
+	<string>Toujours montrer les images sur les médias</string>
+	<key>Désactivées</key>
+	<string>Désactivé</string>
+	<key>Do not show news images on all networks</key>
+	<string>Ne pas montrer les images sur tous les médias </string>
+	<key>Always Enabled</key>
+	<string>Toujours activé</string>
+	<key>Enabled automatically on non-WiFi networks</key>
+	<string>Activé sur les réseaux non-Wifi</string>
+	<key>Most Voted Comments</key>
+	<string>Avec le plus de votes</string>
+	<key>SORT COMMENTS BY</key>
+	<string>Classer les commentaires par : </string>
+	<key>[Subscribers]B Followers</key>
+	<string>[Subscribers]B Abonnés</string>
+	<key>[Subscribers]M Followers</key>
+	<string>[Subscribers]M Abonnés</string>
+	<key>[Subscribers]K Followers</key>
+	<string>[Subscribers]K Abonnés</string>
+	<key>[Subscribers] Followers</key>
+	<string>[Subscribers] Abonnés</string>
+	<key>Remove</key>
+	<string>Supprimer</string>
+	<key>Occupation</key>
+	<string>Profession</string>
+	<key>Primaire</key>
+	<string>Éducation</string>
+	<key>Homme</key>
+	<string>Sexe</string>
+	<key>Bio publique</key>
+	<string>Profil public</string>
+	<key>Vidéo</key>
+	<string>Vidéos</string>
+	<key>Activité</key>
+	<string>Activité récente</string>
+	<key>Éditer</key>
+	<string>Modifier</string>
+	<key>Appuyez longtemps pour éditer</key>
+	<string>Appuyer longtemps pour modifier</string>
+	<key>Cliquez pour ajouter</key>
+	<string>Cliquer pour ajouter</string>
+	<key>Would you like to receive local news?</key>
+	<string>Souhaitez-vous recevoir l&apos;actualité locale ?</string>
+	<key>Choose yor city</key>
+	<string>Choisir votre ville</string>
+	<key>Select your city to find the latest news near you.</key>
+	<string>Sélectionnez votre commune pour découvrir les dernières infos près  de vous.</string>
+	<key>Choose your city to discover local headlines</key>
+	<string>Choisissez votre ville pour trouver toutes les informations près de vous</string>
+	<key>Or Choose Here</key>
+	<string>Ou choisir ici</string>
+	<key>Monday</key>
+	<string>Lundi</string>
+	<key>Tuesday</key>
+	<string>Mardi</string>
+	<key>Wednesday</key>
+	<string>Mercredi</string>
+	<key>Thursday</key>
+	<string>Jeudi</string>
+	<key>Friday</key>
+	<string>Vendredi</string>
+	<key>Saturday</key>
+	<string>samedi</string>
+	<key>Sunday</key>
+	<string>dimanche</string>
+	<key>province</key>
+	<string>Département</string>
+	<key>city</key>
+	<string>Commune</string>
+	<key>no result found</key>
+	<string>Aucun résultat cherché</string>
+	<key>Take advantage of your local news by choosing your location</key>
+	<string>Profitez de votre actualité locale en choisissant votre endroit</string>
+	<key>Choose now</key>
+	<string>Choisir maintenant</string>
+	<key>not now</key>
+	<string>Plus tard</string>
+	<key>Search your city</key>
+	<string>Chercher votre commune</string>
+	<key>local news</key>
+	<string>locale</string>
+	<key>Choose your city</key>
+	<string>Choisir votre ville </string>
+	<key>Ok</key>
+	<string>OK</string>
+	<key>Personalized AI make us be in the know</key>
+	<string>L&apos;intelligence artificielle personnalisée qui vous permet d&apos;être le mieux informé</string>
+	<key>[News Time] minute ago</key>
+	<string>[News Time] minute</string>
+	<key>[News Time] minutes ago</key>
+	<string>[News Time] minutes</string>
+	<key>[News Time] hour ago</key>
+	<string>[News Time] heure</string>
+	<key>[News Time] hours ago</key>
+	<string>[News Time] heures</string>
+	<key>[News Time] day ago</key>
+	<string>[News Time] jour</string>
+	<key>[News Time] days ago</key>
+	<string>[News Time] jours</string>
+	<key>[News Time] week ago</key>
+	<string>[News Time] semaine</string>
+	<key>[News Time] weeks ago</key>
+	<string>[News Time] semaines</string>
+	<key>[News Time] month ago</key>
+	<string>[News Time] mois</string>
+	<key>[News Time] months ago</key>
+	<string>[News Time] mois</string>
+	<key>Search</key>
+	<string>chercher</string>
+	<key>current</key>
+	<string>actuel</string>
+	<key>Switch country</key>
+	<string>Changer de pays</string>
+	<key>Offline Reading Options</key>
+	<string>Options de lecture hors ligne</string>
+	<key>d</key>
+	<string>j</string>
+	<key>ENABLE NOTIFICATIONS</key>
+	<string>ACTIVER LES NOTIFICATIONS</string>
+	<key>Enable notifications and never miss important news.</key>
+	<string>Activez les notifications et ne manquez jamais les nouvelles importantes.</string>
+	<key>INSTANT UPDATES</key>
+	<string>MISES À JOUR INSTANTANÉES</string>
+	<key> Terms of Service </key>
+	<string> conditions d&apos;utilisation </string>
+	<key>Your selected channels contains third-party news sources.
+By clicking “Begin” you affirm that you are of legal age to form a binding contract with Opera and accept our Terms of Service .</key>
+	<string>Les chaînes que vous avez sélectionnées contiennent des sources d&apos;informations tierces.
+En cliquant sur «Commencer», vous affirmez que vous êtes majeur pour conclure un contrat avec Opera et accepter nos conditions d&apos;utilisation .</string>
+	<key>BEGIN</key>
+	<string>COMMENCER</string>
+	<key>Reader Mode is much faster and can reduce your data usage greatly.\nAre you sure you want to turn it on?</key>
+	<string>Le mode lecteur est beaucoup plus rapide et peut réduire considérablement votre utilisation des données. \n Voulez-vous vraiment l&apos;activer?</string>
+	<key>Reader Mode is much faster and can reduce your data usage greatly. Are you sure you want to turn it off?</key>
+	<string>Le mode lecteur est beaucoup plus rapide et peut réduire considérablement votre utilisation des données. Voulez-vous vraiment le désactiver?</string>
+	<key>to comment,vote,sync your info to any mobile,and connect with friends</key>
+	<string>pour commenter, voter, synchroniser vos informations avec n&apos;importe quel mobile et vous connecter avec vos amis</string>
+	<key>LOGIN OR CREATE AN ACCOUNT</key>
+	<string>IDENTIFIEZ-VOUS OU CRÉEZ UN COMPTE</string>
+	<key>Drag the slider to adjust the web font size</key>
+	<string>Faites glisser le curseur pour régler la taille de la police Web</string>
+	<key>Preview</key>
+	<string>Aperçu</string>
+	<key>Turn Off</key>
+	<string>Éteindre</string>
+	<key>Pictureless Mode</key>
+	<string>Mode sans image</string>
+	<key>Topic</key>
+	<string>Sujet</string>
+	<key>Top News</key>
+	<string>Actualités à la une</string>
+	<key>More History</key>
+	<string>Plus d&apos;histoire</string>
+	<key>Auto Dark Mode is Closed.</key>
+	<string>Le mode sombre automatique est fermé.</string>
+	<key>Auto Dark Mode is Open.</key>
+	<string>Le mode sombre automatique est ouvert.</string>
+	<key>Do you want to clear the cache?</key>
+	<string>Voulez-vous vider le cache?</string>
+	<key>Web Font Size</key>
+	<string>Taille de police Web</string>
+	<key>Auto Dark Mode</key>
+	<string>Mode sombre automatique</string>
+	<key>Activities</key>
+	<string>Activités</string>
+	<key>Replies</key>
+	<string>Réponses</string>
+	<key>Likes</key>
+	<string>J&apos;aime</string>
+	<key>Articles</key>
+	<string>Des articles</string>
+	<key>Log in with Google</key>
+	<string>Se connecter avec Google</string>
+	<key>Sign in with Apple</key>
+	<string>Se connecter avec Apple</string>
+	<key>Get local alerts,news,and more for</key>
+	<string>Recevoir des alertes, actualités locales et plus pour</string>
+	<key>Allow Notifications</key>
+	<string>Autoriser les notifications</string>
+	<key>Permettre</key>
+	<string>Autoriser</string>
+	<key>Get notified when {CBS New York} updates</key>
+	<string>Soyez notifié(e) des mises à jour de {CBS New York} </string>
+	<key>Don&apos;t know how to turn it on?</key>
+	<string>Vous ne savez pas comment l&apos;activer ?</string>
+	<key>Block cookie dialogs</key>
+	<string>Bloquer les cookies</string>
+	<key>A lot of websites show you dialogs where you need to accept privacy policies and cookies. We help you block and get rid of such dialogs without violating your privacy if you enable this.</key>
+	<string>Nous vous évitons d&apos;avoir à accepter l&apos;utilisation de cookies ou autres conditions d&apos;utilisation, sans que cela n&apos;affecte le respect de vos données personnelles.</string>
+	<key>Customize Notification Frequency</key>
+	<string>Personnaliser la fréquence des notifications</string>
+	<key>Don&apos;t miss out on breaking news, local news, and important information.</key>
+	<string>Ne manquez pas les dernières infos, les infos locales et les actualités importantes.</string>
+	<key>Next  →</key>
+	<string>Suivant  →</string>
+	<key>{x} more notifications</key>
+	<string>{x} plus de notifications</string>
+	<key>Select Your City</key>
+	<string>Sélectionnez votre ville</string>
+	<key>Search for zip code or city</key>
+	<string>Sélectionnez votre ville préférée</string>
+	<key>Skip</key>
+	<string>Passer</string>
+	<key>Please let us know your city to get better local services</key>
+	<string>Veuillez nous indiquer votre ville afin d&apos;obtenir de meilleurs services locaux</string>
+	<key>Popular city</key>
+	<string>Ville Populaire</string>
+	<key>More ❯</key>
+	<string>Voir Plus ❯</string>
+	<key>By continuing, you agree with our Terms and Conditions</key>
+	<string>En poursuivant, vous acceptez les Conditions d&apos;utilisation</string>
+	<key>My City</key>
+	<string>Ma ville</string>
+	<key>Allow location access</key>
+	<string>Autoriser l&apos;accès à la localisation</string>
+	<key>Terms and Conditions</key>
+	<string>Conditions d&apos;utilisation</string>
+	<key>Never miss breaking news again! Stay up to date through Opera News notifications!</key>
+	<string>Ne ratez aucune info ou interaction avec vos amis. Restez à jour en autorisant Opera News à vous envoyer des notifications !</string>
+	<key>Default Location</key>
+	<string>Lieu par défaut</string>
+	<key>Add Location</key>
+	<string>Ajouter un lieu</string>
+	<key>&quot;Local&quot; channel will show more news from this city.</key>
+	<string>&quot;Local&quot; vous montrera davantage d&apos;infos sur cette ville</string>
+	<key>Set as default city</key>
+	<string>Définir comme ville par défaut</string>
+	<key>&quot;For you&quot; channel will show more news from this city.</key>
+	<string>&quot;Pour vous&quot; vous montrera davantage d&apos;actualités de cette ville</string>
+	<key>Click &quot;Allow&quot;</key>
+	<string>Cliquer sur &quot;Autoriser&quot;</string>
+	<key>Allow</key>
+	<string>Autoriser</string>
+	<key>Show less about：</key>
+	<string>Montrer moins：</string>
+	<key>Block Source：</key>
+	<string>Bloquer cette source：</string>
+	<key>When “Auto dark mode” is on, We will adjust your appearance based on your device’s system settings</key>
+	<string>Lorsque le &quot;mode sombre automatique&quot; est activé, nous ajustons l&apos;apparence en fonction des paramètres système de votre appareil</string>
+	<key>When “Auto dark mode” is off, We won’t adjust your appearance no matter what your device’s settings is</key>
+	<string>Lorsque le &quot;mode sombre automatique&quot; est désactivé, nous ne modifierons pas l&apos;apparence, quels que soient les paramètres de votre appareil</string>
+	<key>Got it</key>
+	<string>J&apos;ai compris</string>
+</dict>
+</plist>

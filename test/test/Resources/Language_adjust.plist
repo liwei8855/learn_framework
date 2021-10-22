@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>You will see more news from this source in the “Following” and “For You” feeds</key>
+	<string>You will see more news from this source in the &quot;Following&quot; and &quot;For You&quot; feeds</string>
+	<key>No results found</key>
+	<string>No Results Found</string>
+	<key>Related articles</key>
+	<string>Related Articles</string>
+	<key>For you</key>
+	<string>For You</string>
+	<key>Back to the top &amp; refresh</key>
+	<string>Back to the top &amp; Refresh</string>
+	<key>End-user license agreement</key>
+	<string>End-user License Agreement</string>
+	<key>Privacy statement</key>
+	<string>Privacy Statement</string>
+	<key>Third party licenses</key>
+	<string>Third Party Licenses</string>
+	<key>just now</key>
+	<string>Just now</string>
+	<key>Sign in</key>
+	<string>Sign In</string>
+	<key>Pull to refresh</key>
+	<string>Pull to Refresh</string>
+	<key>Release to refresh</key>
+	<string>Release to Refresh</string>
+	<key>Top news</key>
+	<string>Top News</string>
+	<key>My channels</key>
+	<string>My Channels</string>
+	<key>News options</key>
+	<string>News Options</string>
+	<key>Most viral</key>
+	<string>Most Viral</string>
+	<key>Video url</key>
+	<string>Video URL</string>
+	<key>Video post</key>
+	<string>Video Post</string>
+	<key>Country &amp; language</key>
+	<string>Country &amp; Language</string>
+	<key>Offline reading</key>
+	<string>Offline Reading</string>
+	<key>Reader mode</key>
+	<string>Reader Mode</string>
+	<key>Rate us</key>
+	<string>Rate Us</string>
+	<key>Interest graph</key>
+	<string>Interest Graph</string>
+	<key>My favorite</key>
+	<string>Favorites</string>
+	<key>Clear cache</key>
+	<string>Clear Cache</string>
+	<key>Sign out</key>
+	<string>Sign Out</string>
+	<key>Customize my following feed</key>
+	<string>Customize My Following Feed</string>
+	<key>Get local alerts,news,and more for</key>
+	<string>Get local alerts,news,and more for</string>
+	<key>Allow Notifications</key>
+	<string>Allow Notifications</string>
+	<key>Allow</key>
+	<string>Allow</string>
+	<key>Get notified when {CBS New York} updates</key>
+	<string>Get notified when {CBS New York} updates</string>
+	<key>Don&apos;t know how to turn it on?</key>
+	<string>Don&apos;t know how to turn it on?</string>
+	<key>Block cookie dialogs</key>
+	<string>Block cookie dialogs</string>
+	<key>A lot of websites show you dialogs where you need to accept privacy policies and cookies. We help you block and get rid of such dialogs without violating your privacy if you enable this.</key>
+	<string>A lot of websites show you dialogs where you need to accept privacy policies and cookies. We help you block and get rid of such dialogs without violating your privacy if you enable this.</string>
+	<key>Customize Notification Frequency</key>
+	<string>Customize Notification Frequency</string>
+	<key>Don&apos;t miss out on breaking news, local news, and important information.</key>
+	<string>Don&apos;t miss out on breaking news, local news, and important information.</string>
+	<key>Next  →</key>
+	<string>Next  →</string>
+	<key>{x} more notifications</key>
+	<string>{x} more notifications</string>
+	<key>Select Your City</key>
+	<string>Select Your City</string>
+	<key>Please let us know your city to get better local services</key>
+	<string>Please let us know your city to get better local services</string>
+	<key>Skip</key>
+	<string>Skip</string>
+	<key>Search for zip code or city</key>
+	<string>Search for zip code or city</string>
+	<key>Popular city</key>
+	<string>Popular city</string>
+	<key>More ❯</key>
+	<string>More ❯</string>
+	<key>By continuing, you agree with our Terms and Conditions</key>
+	<string>By continuing, you agree with our Terms and Conditions</string>
+	<key>My City</key>
+	<string>My City</string>
+	<key>Allow location access</key>
+	<string>Allow location access</string>
+	<key>Terms and Conditions</key>
+	<string>Terms and Conditions</string>
+	<key>Default Location</key>
+	<string>Default Location</string>
+	<key>Add Location</key>
+	<string>Add Location</string>
+	<key>&quot;Local&quot; channel will show more news from this city.</key>
+	<string>&quot;Local&quot; channel will show more news from this city.</string>
+	<key>Set as default city</key>
+	<string>Set as default city</string>
+	<key>&quot;For you&quot; channel will show more news from this city.</key>
+	<string>&quot;For you&quot; channel will show more news from this city.</string>
+	<key>Click &quot;Allow&quot;</key>
+	<string>Click &quot;Allow&quot;</string>
+	<key>Show less about：</key>
+	<string>Show less about：</string>
+	<key>Block Source：</key>
+	<string>Block Source：</string>
+	<key>When “Auto dark mode” is on, We will adjust your appearance based on your device’s system settings</key>
+	<string>When “Auto dark mode” is on, We will adjust your appearance based on your device’s system settings</string>
+	<key>When “Auto dark mode” is off, We won’t adjust your appearance no matter what your device’s settings is</key>
+	<string>When “Auto dark mode” is off, We won’t adjust your appearance no matter what your device’s settings is</string>
+	<key>Got it</key>
+	<string>Got it</string>
+</dict>
+</plist>

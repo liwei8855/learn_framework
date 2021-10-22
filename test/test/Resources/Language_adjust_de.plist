@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nachrichten</key>
+	<string>Aktivitäten</string>
+	<key>alles anzeigen</key>
+	<string>Alles Anzeigen</string>
+	<key>HERUNTERLADEN</key>
+	<string>Herunterladen</string>
+	<key>herunterladen</key>
+	<string>Herunterladen</string>
+	<key>bearbeiten</key>
+	<string>Bearbeiten</string>
+	<key>kopieren</key>
+	<string>Kopieren</string>
+	<key>Abos</key>
+	<string>Folge ich</string>
+	<key>Abonnenten</key>
+	<string>Follower</string>
+	<key>Abonnieren</key>
+	<string>Folgen</string>
+	<key>You will see more news from this source in the “Following” and “For You” feeds</key>
+	<string>Unter &quot;Abonniert&quot; und &quot;Für mich&quot; findest Du weitere News dieser Quelle </string>
+	<key>Will show more [name] news for you</key>
+	<string>Zeige mir mehr Nachrichten aus [name]</string>
+	<key>new videos</key>
+	<string>Neue Videos</string>
+	<key>new articles</key>
+	<string>Neue Artikel </string>
+	<key>aktualisieren</key>
+	<string>Aktualisieren</string>
+	<key>Users you&apos;re following</key>
+	<string>Leute, denen du folgst</string>
+	<key>Messages</key>
+	<string>Mitteilungen</string>
+	<key>Notifications</key>
+	<string>Push</string>
+	<key>Retry</key>
+	<string>Erneut versuchen</string>
+	<key>Connection failed please try again</key>
+	<string>Verbindung fehlgeschlagen, bitte erneut versuchen</string>
+	<key>Das könnte Ihnen gefallen</key>
+	<string>Ähnliche Artikel</string>
+	<key> Oder wählen Sie hier</key>
+	<string>Oder wähle aus</string>
+	<key>Artikel pro Kategorie</key>
+	<string>Artikel pro Kategorie(n)</string>
+	<key>Wählen Sie eine Kategorie zum Herunterladen</key>
+	<string>Wähle eine/mehrere Kategorie(n)</string>
+	<key>heruntergeladene Artikel</key>
+	<string>Artikel offline lesen</string>
+	<key>alle</key>
+	<string>Alle</string>
+	<key>zurücknehmen</key>
+	<string>Abbrechen</string>
+	<key>nächste</key>
+	<string>Entfolgen</string>
+	<key>Kontakte verknüpfen</key>
+	<string>Kontakte knüpfen</string>
+	<key>Vervollständigen Sie Ihre Daten, damit der KI-Roboter bessere Inhalte empfehlen kann.</key>
+	<string>Fülle die Felder aus, um passendere Inhalte angezeigt zu bekommen.</string>
+	<key>Mein Favorit</key>
+	<string>Meine Favoriten</string>
+	<key>Find people you know on Opera News and chose who to follow</key>
+	<string>Finde Personen, die Du auf Opera News kennst und wähle aus, wem Du folgen möchtest.</string>
+	<key>Turn on notification so you will never miss important stories around you</key>
+	<string>Aktiviere die Benachrichtigungsfunktion, um keine Neuigkeiten zu verpassen!</string>
+	<key>Turn ”Allow Notifications” on</key>
+	<string>&quot;Mitteilungen erlauben&quot; aktivieren</string>
+	<key>Tap”Notifications”</key>
+	<string>Auf &quot;Mitteilungen&quot; klicken</string>
+	<key>persönliche Informationen hinzufügen</key>
+	<string>Persönliche Interessen hinzufügen</string>
+	<key>bessere Themenempfehlungen erhalten durch Vervollständiung Ihrer persönlichen Informationen</key>
+	<string>Erhalte optimierte Inhalte, indem Du Deine persönlichen Interessen hinzufügst</string>
+	<key>AI Robet will recommend content base on following items</key>
+	<string>Unser KI-System empfiehlt Dir Inhalte auf Basis der folgenden Auswahi</string>
+	<key>Dislike</key>
+	<string>Kein Interesse</string>
+	<key>abonnierte Themen</key>
+	<string>Meine Themen</string>
+	<key>abonnierte Medien</key>
+	<string>Meine Medien</string>
+	<key>empfohlene Interessen</key>
+	<string>Unsere Empfehlungen</string>
+	<key>meine Interessen</key>
+	<string>Meine Interessen</string>
+	<key>mit der Telefonnummer anmelden</key>
+	<string>Mit der Telefonnummer anmelden</string>
+	<key>mit Facebook anmelden</key>
+	<string>Mit Facebook anmelden</string>
+	<key>heruntergeladen</key>
+	<string>HERUNTERGELADEN</string>
+	<key>melden</key>
+	<string>Melden</string>
+	<key>Top News</key>
+	<string>Schlagzeilen</string>
+	<key>BEGIN</key>
+	<string>Los geht&apos;s</string>
+	<key>Make Opera News your own</key>
+	<string>Gestalte Opera News nach Deinem Geschmack</string>
+	<key>No more news</key>
+	<string>Keine weiteren Meldungen</string>
+	<key>reports</key>
+	<string>Berichte</string>
+	<key>[number]s remaining</key>
+	<string>noch [number]s</string>
+	<key>Downloading [name] Category</key>
+	<string>&quot;[name]&quot;-Kategorie wird heruntergeladen </string>
+	<key>Obsolete content</key>
+	<string>Alte Inhalte</string>
+	<key>Sexual content</key>
+	<string>Sexuelle Inhalte</string>
+	<key>Violent,threatening content</key>
+	<string>Gewaltsame, bedrohliche Inhalte</string>
+	<key>Misleading content</key>
+	<string>Fake News, Falschmeldungen</string>
+	<key>Ad or spam</key>
+	<string>Anzeigen oder Spam</string>
+	<key>Clickbait</key>
+	<string>Clickbait</string>
+	<key>Media won&apos;t load</key>
+	<string>Artikel können nicht geladen werden</string>
+	<key>Sonstiges</key>
+	<string>Sonstiges</string>
+	<key>SUBMIT</key>
+	<string>Absenden</string>
+	<key>für Sie</key>
+	<string>Für mich</string>
+	<key>vorgeschlagen</key>
+	<string>Vorschläge</string>
+	<key>kontaktieren</key>
+	<string>Kontakte</string>
+	<key>anmelden</key>
+	<string>Anmelden</string>
+	<key>Customize your push notification preferences</key>
+	<string>Passe deine Banchrichtigungseinstellungen an</string>
+	<key>Go</key>
+	<string>Los</string>
+	<key>Would you like to receive local news?</key>
+	<string>Möchten Sie lokale Nachrichten erhalten?</string>
+	<key>Choose yor city</key>
+	<string>Wählen Sie Ihre Stadt</string>
+	<key>Select your city to find the latest news near you.</key>
+	<string>Wählen Sie Ihren Landkreis aus, um die neuesten Nachrichten in Ihrer Nähe zu finden.</string>
+	<key>Choose your city to discover local headlines</key>
+	<string>Wählen Sie Ihre Stadt, um lokale Nachrichten zu entdecken</string>
+	<key>Or Choose Here</key>
+	<string>Oder wählen Sie hier</string>
+	<key>bildloser Modus</key>
+	<string>Bildloser Modus</string>
+	<key>deaktiviert</key>
+	<string>Deaktiviert</string>
+	<key>automatisch</key>
+	<string>Automatisch</string>
+	<key>automatisch aktiviert falls keine WLAN-Verbindung vorhanden ist</key>
+	<string>Automatisch aktiviert, falls keine WLAN-Verbindung vorhanden ist.</string>
+	<key>Nachrichtenbilder in allen Netzwerken nicht anzeigen</key>
+	<string>Nachrichtenbilder in allen Netzwerken nicht anzeigen.</string>
+	<key>Nachrichtenbilder in allen Netzverbindungen anzeigen</key>
+	<string>Nachrichtenbilder in allen Netzverbindungen anzeigen.</string>
+	<key>Always Enabled</key>
+	<string>Immer Aktiviert</string>
+	<key>ENABLE NOTIFICATIONS</key>
+	<string>BENACHRICHTIGUNGEN AKTIVIEREN</string>
+	<key>Enable notifications and never miss important news.</key>
+	<string>Aktivieren Sie Benachrichtigungen und verpassen Sie keine wichtigen Nachrichten.</string>
+	<key>INSTANT UPDATES</key>
+	<string>SOFORTIGE UPDATES</string>
+	<key>to comment,vote,sync your info to any mobile,and connect with friends</key>
+	<string>um zu kommentieren, abzustimmen, deine Informationen mit jedem Handy zu synchronisieren und dich mit Freunden zu verbinden</string>
+	<key>LOGIN OR CREATE AN ACCOUNT</key>
+	<string>EINLOGGEN ODER KONTO ERSTELLEN</string>
+	<key> Terms of Service </key>
+	<string> Nutzungsbedingungen </string>
+	<key>Your selected channels contains third-party news sources.
+By clicking “Begin” you affirm that you are of legal age to form a binding contract with Opera and accept our Terms of Service .</key>
+	<string>Ihre ausgewählten Kanäle enthalten Nachrichtenquellen von Drittanbietern.\nWenn Sie auf &quot;Beginnen&quot; klicken, bestätigen Sie, dass Sie volljährig sind, um einen verbindlichen Vertrag mit Opera abzuschließen und unsere Nutzungsbedingungen zu akzeptieren.</string>
+	<key>Monday</key>
+	<string>Montag</string>
+	<key>Tuesday</key>
+	<string>Dienstag</string>
+	<key>Wednesday</key>
+	<string>Mittwoch</string>
+	<key>Thursday</key>
+	<string>Donnerstag</string>
+	<key>Friday</key>
+	<string>Freitag</string>
+	<key>Saturday</key>
+	<string>Samstag</string>
+	<key>Sunday</key>
+	<string>Sonntag</string>
+	<key>province</key>
+	<string>Bundesland</string>
+	<key>city</key>
+	<string>Landkreis</string>
+	<key>no result found</key>
+	<string>Keine Ergebnisse gefunden</string>
+	<key>Choose now</key>
+	<string>Wählen Sie jetzt</string>
+	<key>Take advantage of your local news by choosing your location</key>
+	<string>Erhalten Sie Ihre lokalen Nachrichten, indem Sie Ihren Landkreis auswählen</string>
+	<key>not now</key>
+	<string>Nicht jetzt</string>
+	<key>Search your city</key>
+	<string>Suche Deinen Landkreis</string>
+	<key>local news</key>
+	<string>Lokal</string>
+	<key>Choose your city</key>
+	<string>Dein Landkreis auswählen</string>
+	<key>Ok</key>
+	<string>OK</string>
+	<key>Feedback</key>
+	<string>Feedback</string>
+	<key>current</key>
+	<string>aktuell</string>
+	<key>Offline Reading Options</key>
+	<string>Offline-Lesen-Optionen</string>
+	<key>Switch country</key>
+	<string>Länder-Wechsel</string>
+	<key>Standard</key>
+	<string>Standard</string>
+	<key>Drag the slider to adjust the web font size</key>
+	<string>Ziehen Sie den Schieber, um die Schriftgröße auf dem Bildschirm einzustellen. </string>
+	<key>Preview</key>
+	<string>Vorschau</string>
+	<key>Version</key>
+	<string>Ausführung</string>
+	<key>Auto Dark Mode is Closed.</key>
+	<string>Auto-Dunkelmodus ist abgeschaltet.</string>
+	<key>Auto Dark Mode is Open.</key>
+	<string>Auto-Dunkelmodus ist geöffnet.</string>
+	<key>Do you want to clear the cache?</key>
+	<string>Möchten Sie den Cache bereinigen?</string>
+	<key>Web Font Size</key>
+	<string>Schriftgröße auf dem Bildschirm</string>
+	<key>Auto Dark Mode</key>
+	<string>Auto-Dunkelmodus</string>
+	<key>Activities</key>
+	<string>Aktivitäten</string>
+	<key>Replies</key>
+	<string>Antworten</string>
+	<key>Likes</key>
+	<string>Likes</string>
+	<key>Articles</key>
+	<string>Artikeln</string>
+	<key>Inbox</key>
+	<string>Posteingang</string>
+	<key>Personalized AI make us be in the know</key>
+	<string>Persönliche AI macht uns bekannt</string>
+	<key>Log in with Google</key>
+	<string>Mit Google anmelden</string>
+	<key>Sign in with Apple</key>
+	<string>Mit Apple anmelden</string>
+	<key>Get local alerts,news,and more for</key>
+	<string>Erhalte lokale Warnmeldungen, Nachrichten und mehr für</string>
+	<key>Allow</key>
+	<string>Erlauben</string>
+	<key>Allow Notifications</key>
+	<string>Benachrichtigungen erlauben</string>
+	<key>Get notified when  {CBS New York} updates</key>
+	<string>Erhalte Benachrichtigungen für neue Artikel von {CBS New York} </string>
+	<key>Don&apos;t know how to turn it on?</key>
+	<string>Du weiß nicht, wie Du es einschalten kannst?</string>
+	<key>Block cookie dialogs</key>
+	<string>Cookies blockieren</string>
+	<key>A lot of websites show you dialogs where you need to accept privacy policies and cookies. We help you block and get rid of such dialogs without violating your privacy if you enable this.</key>
+	<string>Viele Webseiten zeigen Dir Benachrichtigungen zu Privatsphäre- und Cookie-Einstellungen. Wenn Du uns hier deine Erlaubnis erteilst, helfen wir Dir dabei, solche Meldungen zu blockieren, ohne Deine Privatsphäreneinstellung zu verändern.</string>
+	<key>Customize Notification Frequency</key>
+	<string>Benachrichtigungsfrequenz bestimmen</string>
+	<key>Don&apos;t miss out on breaking news, local news, and important information.</key>
+	<string>Verpasse keine Eilmeldungen, lokale Nachrichten und wichtige Informationen.</string>
+	<key>Next  →</key>
+	<string>Weiter  →</string>
+	<key>{x} more notifications</key>
+	<string>{x} weitere Benachrichtigungen</string>
+	<key>Select Your City</key>
+	<string>Wähle Deine Stadt </string>
+	<key>Please let us know your city to get better local services</key>
+	<string>Bitte teile uns Deinen Wohnort mit, um genauere lokale Informationen zu erhalten.</string>
+	<key>Skip</key>
+	<string>Überspringen</string>
+	<key>Search for zip code or city</key>
+	<string>Wähle Deine bevorzugte Stadt aus</string>
+	<key>Popular city</key>
+	<string>Bekannte Stadt</string>
+	<key>More ❯</key>
+	<string>Mehr ❯</string>
+	<key>By continuing, you agree with our Terms and Conditions</key>
+	<string>Wenn Du fortfährst, stimmst Du unseren Nutzungsbedingungen zu.</string>
+	<key>My City</key>
+	<string>Meine Stadt</string>
+	<key>Allow location access</key>
+	<string>Standortzugriff erlauben</string>
+	<key>Terms and Conditions</key>
+	<string>Nutzungsbedingungen</string>
+	<key>Never miss breaking news again! Stay up to date through Opera News notifications!</key>
+	<string>Verpassen Sie keine aktuellen Nachrichten und bleiben Sie immer auf dem Laufenden, indem Sie Opera News erlauben, Ihnen Benachrichtigungen zu schicken!</string>
+	<key>Default Location</key>
+	<string>Bevorzugter Standort</string>
+	<key>Add Location</key>
+	<string>Ort hinzufügen</string>
+	<key>&quot;Local&quot; channel will show more news from this city.</key>
+	<string>Unter „Lokales“ findest Du News aus Deiner Stadt</string>
+	<key>Set as default city</key>
+	<string>Als bevorzugte Stadt speichern</string>
+	<key>&quot;For you&quot; channel will show more news from this city.</key>
+	<string>&quot;Für Dich&quot; zeigt Ihnen mehr Nachrichten aus Ihrem Ort</string>
+	<key>Click &quot;Allow&quot;</key>
+	<string>Klicke auf „Erlauben“</string>
+	<key>Show less about：</key>
+	<string>Weniger anzeigen：</string>
+	<key>Block Source：</key>
+	<string>Quelle blockieren：</string>
+	<key>When “Auto dark mode” is on, We will adjust your appearance based on your device’s system settings</key>
+	<string>Wenn &quot;Auto Dark mode&quot; eingeschaltet ist, regulieren wir die Helligkeit entsprechend Ihrer Systemeinstellungen</string>
+	<key>When “Auto dark mode” is off, We won’t adjust your appearance no matter what your device’s settings is</key>
+	<string>Wenn &quot;Auto Dark mode&quot; abgeschaltet ist, bleibt die Helligkeit unverändert, unabhängig von Ihren Systemeinstellungen</string>
+	<key>Got it</key>
+	<string>Verstanden</string>
+	<key>[News Time] minute ago</key>
+	<string>vor [News Time] Minute</string>
+	<key>[News Time] minutes ago</key>
+	<string>vor [News Time] Minuten</string>
+	<key>[News Time] hour ago</key>
+	<string>vor [News Time] Stunde</string>
+	<key>[News Time] hours ago</key>
+	<string>vor [News Time] Stunden</string>
+	<key>[News Time] day ago</key>
+	<string>vor [News Time] Tag</string>
+	<key>[News Time] days ago</key>
+	<string>vor [News Time] Tagen</string>
+	<key>[News Time] week ago</key>
+	<string>vor [News Time] Woche</string>
+	<key>[News Time] weeks ago</key>
+	<string>vor [News Time] Wochen</string>
+	<key>[News Time] month ago</key>
+	<string>vor [News Time] Monat</string>
+	<key>[News Time] months ago</key>
+	<string>vor [News Time] Monaten</string>
+	<key>Remove</key>
+	<string>Entfernen</string>
+	<key>Zulassen</key>
+	<string>Erlauben</string>
+</dict>
+</plist>
